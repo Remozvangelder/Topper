@@ -6,7 +6,7 @@ h1 {
 }
 h2 {color: red}
 #container{
-    background-color: white;
+    background-color:whitesmoke;
     width: 1700px;
     height: 1000px;
     margin:5%;
@@ -14,7 +14,7 @@ h2 {color: red}
     
 }
 #menu {
-    background-color: rgb(255, 0, 0);
+    background-color:whitesmoke;(255, 0, 0);
     width: 1700px;
     height: 5%;
     text-align: center;
@@ -24,13 +24,13 @@ h2 {color: red}
   
 body {
     height: 100%;
-    background-color: rgb(204, 204, 206);
+    background-color:whitesmoke;(204, 204, 206);
     margin-right: 50px;
 }
 #sticky {
   position: sticky;
   top:0;
-  background-color: whitesmoke;
+  background-color:whitesmoke;
   padding:0.25 ;
   font-size: 40px;
  
@@ -42,10 +42,8 @@ body {
   li{
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       font-size: 40px;
-      display: table;
-      width:100 px
-      height:100 px
-      border-bottom: 10px solid darkgrey;
+      display: inline;
+      border-bottom: 10px solid red;
       background-color: white;
       padding-right:20px;
       padding-left:20px;
@@ -53,19 +51,18 @@ body {
   }
 ul{
     padding: 0;
-    background-color:white;
+    background-color:whitesmoke;
 
 }
 #Knopjes{ 
 
-    position: sticky;
     top: 63px;
     margin-left: 46px;
 }
 a:hover{
     color: red;
-    background-color:white;
-    text-decoration:White;
+    background-color:whitesmoke;
+    text-decoration:whitesmoke;
     
 }
 a:active{ 
